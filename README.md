@@ -4,3 +4,4 @@ Program at the HW interface level of the most common PC I/O Devices and develop 
 
 # lab1
 PC's video graphics adapter in text mode, by accessing directly to its memory. Write in the C programming language several functions for Minix to print characters on the screen, by directly modifying the video RAM (VRAM) area for text mode rather than using the I/O functions of the standard C library or of the POSIX standard.
+# lab2
