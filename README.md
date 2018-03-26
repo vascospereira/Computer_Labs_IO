@@ -10,6 +10,6 @@ Every PC "has" an i8254 an integrated circuit (IC) with 3 timers.
 A timer has a 16 bit counter, two input lines, Clock and Enable, and an output line Out.
 Each timer is programmed independently of the other timers. Programming a timer requires two steps:
 
--Specifying the timer operating mode, by writing a control word to the control register
+-Specifying the timer operating mode, by writing a control word to the control register;
 
 -Loading the counter initial value, by writing to the counter register.
